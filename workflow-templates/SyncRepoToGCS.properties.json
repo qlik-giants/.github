@@ -1,0 +1,8 @@
+{
+    "name": "SyncRepoToGCS Workflow",
+    "description": "Allows the repository to be synced with qlik-giants-github bucket in GCP.",
+    "iconName": "example-icon",
+    "categories": [
+        "Qlik"
+    ]
+}
