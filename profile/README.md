@@ -15,6 +15,7 @@ Our scope is limited to Qlik Cloud products. For now (2022), this includes Qlik 
 2. We'll not use proprietary extensions for QS.
 3. Our solutions can use load scripts, Qlik CLI, Qlik APIs and/or Qlik SDKs.
 4. Solutions must keep all historic versions available and unchanged, to not disrupt previous implementations.
+5. We'll use git flow to manage branches and merges. For more information, please check this amazing post from Jeff (https://jeffkreeftmeijer.com/git-flow/).
 
 # How to use our solutions
 
