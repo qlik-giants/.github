@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "qlik-giants",
+  "private_key_id": "16dc3462391421156e7a05a1b27f084c54622675",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDYhWceU4Wj6pxV\nOL0tsH4kK494DJZb+I+kot9n8RQBPYGNMLf5HbJT86emcRAq5ZiOiM1DTzIonAFR\n6L4P76HazFpOPSHIQlW9Zcz3IgYcjph8pGl9zhzx+loKbCKsPXMoyBg32N1gRviO\nr5EkvzuuIKIYIF5wu8KuvzupiR2ebOUQ+0e9ZbuRdgnfKM1HRo0qDdNxjD1ahzbL\nq6Y+tJLCrgt93pOMvcC0HDKuiWb0y0YyUvBxPQbfitm36uMtI6v+InaXrPpll9ko\nbS7jwbuoQw5Xr0i+Ie0lK4e9shCmalT02hNL2ZJnQpz/xu1Ly568N9Vrby4yZ9g/\nXgQPPd+NAgMBAAECggEAFauiYrliyIFYdLoZSwudUGLwuMfvu5RA0i4/9F//S9F7\nWCV+YEc93COojaLGxrhUgL2F57zzLPfSNP+5mBA4j5TA3BBHw4qKGMrpzPlBidWm\nwuDUsxPwNzLClMT2Ym1DC5udOuewXmyz/1noibg/EaIv/wCsWxWbulAm+UShK4QU\n8qrWsKGjB3yKdyKs47gBEYIAfKdhgkuzKpslVAjxWrbdWEUmzMpUjoWZx20B534k\nefsz23pvUztsTyneAmCCyiNtGXsWGCZr+XO4Qe0+civxxE1s5LC2RApV9Gjdiou8\nDrdE30v3uBYrReJtzCZnO3GL6TNgWGerRBbx/9MzUQKBgQDyJVaBXrao/I/QfJlX\nZ2K55wQQgXYZYnI+gyKE5QU1uLymhm0DrXhMPBypktD4UQDTvGMJrRJk2TXHUlPs\nuYyeSLsTmMkpCOCf6j7XIIp5DPFnSzlaYjE1i2aW+U3Gf5ebs6wapcCWz3icOEAm\niYCihlcJu0xd1mKa+8PFvMsEXQKBgQDk6L6Mm7tUxQ7k4/H/YJn7MBs8oiuol4uv\n9fA8wFR/szjYGy810LpcsjkcZHMEKMogVtL6Q44YigGHa+VObrrsoDZn7TtbSmka\nPUkZQwuIh7sSZczKuyWm23DuW3g+vTrFQgaE+Xgu7GrxqdPP7/plLL6GNP+eKsj2\nW6pR4m2U8QKBgQC+Swd7baJglPK0JmcfYBke/WSdUBAujMY5SDbld1Gr0T04JOYh\nAL9MMeVYgg+FRas/uomePgv5gxWXSaS4oWzXq1KRaP2VKOvV4HF4AJOx47EGuwAc\nfpQrfxylQtCTUQwlCYMUAfSiz/L52d7YKjEUCDz4Yd/20pb1Myu8Bs0I5QKBgQDP\nCJpe/fL+hoQkDO4w9aQPBcF8o4gtIXOboCq6J5HFNcmx21RlrfUAJcl1nnxQRLwb\nZ6vF4hfApgEgBDwPJiM2JOlQMcY/mRtaOhfFG1hxEaHmz9/bdExnj42iZ2RoCin/\ngun2ltNWTUmkbN8/8GJd44wmQgT3fubnupxfFxXZYQKBgQDBIGWCjDaQMmSj66us\nHQuNStGCoYtv3mHwwPjLewK6xYrL/dkRx4LxFjsJbQIAMOXBhJDst62BcI5OaZF/\nE4WRsV0qwgNnFwH4O7sQpAj5sFSR+ntoJZLTCHCLB5DZ7GjEBirGmMU2Y5dsDiup\nsbQzURM+JfPBdbf1hbT5kI0szQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "qlik-giants-github-readonly@qlik-giants.iam.gserviceaccount.com",
+  "client_id": "100225455626417828379",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/qlik-giants-github-readonly%40qlik-giants.iam.gserviceaccount.com"
+}
