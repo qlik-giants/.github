@@ -21,7 +21,18 @@ Our scope is limited to Qlik Cloud products. For now (2022), this includes Qlik 
 
 We try to keep options open, but we actively support (think about this when coding):
 
-1) Download our solutions
+1) To use solutions directly from Google Cloud Storage.
+
+You can opt to create a data connection in your Qlik Cloud tenant to our GCP bucket, and use the qvs files without the need to download anything.
+Please use the following data to create the connection:
+- bucket name: qlik-giants-github
+- key: please get it from qlik-giants-key-read-only.json at this repository root. It is a read only key, with access to all buckets.
+
+Then, you can use Must_Include to call the main file from each solution directly from Github.
+
+Take a look at our bucket: https://console.cloud.google.com/storage/browser/qlik-giants-github.
+
+2) To download our solutions
 
 You can opt to run the solution from your own storage service (Qlik Cloud, S3, GCS, etc). If so, please make sure you downloaded all files pertaining to the chosen solution. If the files are organized in subfolders at the original repo, please keep the same organization in your storage service.
 
